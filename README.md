@@ -25,13 +25,6 @@ google.colab (for Google Colab file handling)
 Google Colab environment for running the notebook
 Internet access for downloading external datasets (if applicable)
 
-Installation
-
-Clone the Repository:
-git clone https://github.com/your-username/weather-data-recorder.git
-cd weather-data-recorder
-
-
 Set Up Google Colab:
 
 Upload the weather_data_recorder.ipynb notebook to Google Colab.
@@ -60,9 +53,6 @@ Initialize the data storage and validation functions.
 Add new weather data interactively using input prompts or Colab forms.
 View recorded data and summarized trends.
 Export data to CSV and download using Colab’s file handling.
-
-
-
 
 Sample Workflow:
 
